@@ -3,7 +3,7 @@ src/menu.c\
 
 INC = -Iinc
 
-PROJECT_NAME = tic.out
+PROJECT_NAME = tic_tac.out
 BUILD = build
 
 $(PROJECT_NAME): $(SRC)
